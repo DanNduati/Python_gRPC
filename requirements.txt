@@ -1,0 +1,6 @@
+-i https://pypi.org/simple
+grpcio==1.47.0
+grpcio-tools==1.47.0
+protobuf==3.20.1
+setuptools==63.2.0
+six==1.16.0
